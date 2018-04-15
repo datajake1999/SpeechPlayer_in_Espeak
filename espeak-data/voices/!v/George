@@ -1,0 +1,19 @@
+Language variant 3
+name George
+Speed 1
+pitch  63 116
+Klatt 1
+Words 1  1
+formant 0 86 85
+formant 1 88 85
+formant 2 90 85
+formant 3 92 85
+formant 4 94 85
+Formant 5 95 85
+Formant 6 95 85
+Formant 7 91 85
+Tone 600 255  2400 255  4200 255  6000 255  7800 255
+voicing -80 -80
+consonants -120 -120
+StressAdd 20 20  20 20  20 20  20 20
+StressAmp 20 20 20 20 20 20 20 20

@@ -1,0 +1,23 @@
+language variant 1
+name Bill
+klatt 4
+Words 1  1
+Status  Mature
+pitch 63  117
+Tone 500 255  1000 255  2500 255  4750 255  9998 255
+voicing -70  -70
+consonants -140  -140
+breath 0 0 0 0 0 0 0 0
+flutter 0
+roughness 0
+StressAdd 20 20  20 20  20 20  20 20
+StressAmp 20 20  20 20  20 20  20 20
+Formant 0 91 100 100
+formant 1 89 100 100
+formant 2 90 100 100
+formant 3 92 100 100
+formant 4 93 100 100
+Formant 5 95  100  100
+Formant 6 97  100  100
+Formant 7 98  100  100
+Formant 8 99  100  100

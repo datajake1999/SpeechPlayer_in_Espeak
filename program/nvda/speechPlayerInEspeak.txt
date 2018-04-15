@@ -1,0 +1,5 @@
+manifest.ini
+synthDrivers\speechPlayerInEspeak.py
+synthDrivers\_speechPlayerInEspeak.py
+synthDrivers\espeak.dll
+synthDrivers\espeak-data\

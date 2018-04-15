@@ -1,0 +1,6 @@
+manifest.ini
+synthDrivers\nvSpeechPlayer\data.py
+synthDrivers\nvSpeechPlayer\ipa.py
+synthDrivers\nvSpeechPlayer\SpeechPlayer.dll
+synthDrivers\nvSpeechPlayer\speechPlayer.py
+synthDrivers\nvSpeechPlayer\__init__.py

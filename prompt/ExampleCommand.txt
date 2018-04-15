@@ -1,0 +1,4 @@
+This file contains a sample command, which you can run to experiment with eSpeak. Please note that the commands below are best run within the provided "eSpeak-Prompt.bat" batch file.
+
+To generate "ExampleAudioFile.wav"
+espeak -f ExampleAudioFile.txt -v en-us+edward -r 85 -s 180 -w ExampleAudioFile.wav

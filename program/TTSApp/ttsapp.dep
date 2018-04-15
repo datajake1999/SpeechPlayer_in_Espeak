@@ -1,0 +1,73 @@
+# Microsoft Developer Studio Generated Dependency File, included by ttsapp.mak
+
+.\childwin.cpp : \
+	".\globals.h"\
+	".\textserv.h"\
+	".\tom.h"\
+	".\ttsapp.h"\
+	{$(INCLUDE)}"sapi.h"\
+	{$(INCLUDE)}"sapiddk.h"\
+	{$(INCLUDE)}"..\sapi\SPDebug.h"\
+	{$(INCLUDE)}"..\sapi\SPError.h"\
+	{$(INCLUDE)}"..\sapi\SPhelper.h"\
+	{$(INCLUDE)}"..\sapi\SPuihelp.h"\
+	
+
+.\dlgmain.cpp : \
+	".\globals.h"\
+	".\textserv.h"\
+	".\tom.h"\
+	".\ttsapp.h"\
+	{$(INCLUDE)}"sapi.h"\
+	{$(INCLUDE)}"sapiddk.h"\
+	{$(INCLUDE)}"..\sapi\SPDebug.h"\
+	{$(INCLUDE)}"..\sapi\SPError.h"\
+	{$(INCLUDE)}"..\sapi\SPhelper.h"\
+	{$(INCLUDE)}"..\sapi\SPuihelp.h"\
+	
+
+.\globals.cpp : \
+	".\globals.h"\
+	".\textserv.h"\
+	".\tom.h"\
+	".\ttsapp.h"\
+	{$(INCLUDE)}"sapi.h"\
+	{$(INCLUDE)}"sapiddk.h"\
+	{$(INCLUDE)}"..\sapi\SPDebug.h"\
+	{$(INCLUDE)}"..\sapi\SPError.h"\
+	{$(INCLUDE)}"..\sapi\SPhelper.h"\
+	{$(INCLUDE)}"..\sapi\SPuihelp.h"\
+	
+
+.\ttsapp.rc : \
+	".\res\appicon.ico"\
+	".\res\mic eyes closed.bmp"\
+	".\res\mic.bmp"\
+	".\res\mic_eyes_narrow.bmp"\
+	".\res\mic_mouth_10.bmp"\
+	".\res\mic_mouth_11.bmp"\
+	".\res\mic_mouth_12.bmp"\
+	".\res\mic_mouth_13.bmp"\
+	".\res\mic_mouth_2.bmp"\
+	".\res\mic_mouth_3.bmp"\
+	".\res\mic_mouth_4.bmp"\
+	".\res\mic_mouth_5.bmp"\
+	".\res\mic_mouth_6.bmp"\
+	".\res\mic_mouth_7.bmp"\
+	".\res\mic_mouth_8.bmp"\
+	".\res\mic_mouth_9.bmp"\
+	".\version.rc2"\
+	
+
+.\winmain.cpp : \
+	".\globals.h"\
+	".\textserv.h"\
+	".\tom.h"\
+	".\ttsapp.h"\
+	{$(INCLUDE)}"sapi.h"\
+	{$(INCLUDE)}"sapiddk.h"\
+	{$(INCLUDE)}"..\sapi\SPDebug.h"\
+	{$(INCLUDE)}"..\sapi\SPError.h"\
+	{$(INCLUDE)}"..\sapi\SPhelper.h"\
+	{$(INCLUDE)}"..\sapi\SPuihelp.h"\
+	

@@ -1,0 +1,21 @@
+language variant
+name Sonya
+gender female
+
+pitch 276 325
+flutter 0
+roughness 0
+tone 100 255 600 70 1200 22 2000 66 3000 12
+
+formant 0 150  100 150
+formant 1 150 100 150
+formant 2 150 100 150
+formant 3 150 125 150
+formant 4 150 100 150
+formant 5 150 100 150
+formant 6 150 100 150
+formant 7 150 130 150
+formant 8 150 130 150
+
+stressAmp 16 16 24 24 16 16 20 24
+consonants 55 90

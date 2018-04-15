@@ -1,0 +1,9 @@
+language variant
+name whisper2
+gender male
+
+pitch 40 40
+breath   25  25  20  10  5  0
+breathw 150 150 200 200 400 400
+consonants 40 40
+voicing 0

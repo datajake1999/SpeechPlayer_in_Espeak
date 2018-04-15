@@ -1,0 +1,16 @@
+language variant
+name Bobby
+klatt 1
+voicing 100
+breath 0 25 -8 0 0 0 0 0
+flutter 0
+roughness 0
+formant 0 100 100 100 0
+formant 1 125 100 125 0
+formant 2 125 100 125 0
+formant 3 125 100 125 0
+formant 4 125 100 125 0
+formant 5 125 100 125 0
+formant 6 125 100 125 0
+formant 7 125 100 125 0
+formant 8 125 100 125 0

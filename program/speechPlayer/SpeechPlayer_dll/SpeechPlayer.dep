@@ -1,0 +1,23 @@
+# Microsoft Developer Studio Generated Dependency File, included by SpeechPlayer.mak
+
+..\src\frame.cpp : \
+	"..\src\utils.h"\
+	
+
+..\src\speechPlayer.cpp : \
+	"..\src\lock.h"\
+	"..\src\sample.h"\
+	"..\src\speechPlayer.h"\
+	"..\src\speechWaveGenerator.h"\
+	"..\src\waveGenerator.h"\
+	
+
+..\src\speechWaveGenerator.cpp : \
+	"..\src\debug.h"\
+	"..\src\lock.h"\
+	"..\src\sample.h"\
+	"..\src\speechPlayer.h"\
+	"..\src\speechWaveGenerator.h"\
+	"..\src\utils.h"\
+	"..\src\waveGenerator.h"\
+	

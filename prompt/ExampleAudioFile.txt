@@ -1,0 +1,1 @@
+This is an example audio file, generated using eSpeak, a software speech synthesizer.  The text currently being spoken was first translated into sets of phonemes using English language rules.  The phonemes were then synthesized using further sets of rules, which were provided in the form of computer code.  The result is this audio file, which you are hearing now.

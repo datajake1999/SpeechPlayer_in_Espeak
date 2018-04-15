@@ -1,0 +1,36 @@
+	language variant
+
+name Leann
+
+gender female
+
+
+;echo 130 15
+
+pitch 200 247  
+
+flutter 3
+formant 0 98 85 164
+
+formant 1 145 58 179 -30
+
+formant 2 141 75 162 -260
+
+formant 3 133 75 160
+
+formant 4 135 80 160
+
+formant 5 135 80 160
+
+formant 6 120 80 160
+
+formant 7 120 75 160
+
+formant 8 120 75 160
+
+
+
+stressAdd -20 -20 -20 -20 0 3 20 120
+
+stressAmp 18 16 20 20 20 20 27 20
+

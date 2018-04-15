@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by PAStaticWMME.mak
+
+.\pa_convert.c : \
+	".\pa_host.h"\
+	".\portaudio.h"\
+	
+
+.\pa_lib.c : \
+	".\pa_host.h"\
+	".\pa_trace.h"\
+	".\portaudio.h"\
+	
+
+.\pa_trace.c : \
+	".\pa_trace.h"\
+	
+
+.\pa_win_wmme.c : \
+	".\pa_host.h"\
+	".\pa_trace.h"\
+	".\portaudio.h"\
+	

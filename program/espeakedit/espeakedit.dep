@@ -1,0 +1,350 @@
+# Microsoft Developer Studio Generated Dependency File, included by espeakedit.mak
+
+.\sample.rc : \
+	".\sample.ico"\
+	
+
+..\src\compiledata.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\voice.h"\
+	
+
+..\src\compiledict.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	
+
+..\src\debug.cpp : \
+	"..\src\debug.h"\
+	"..\src\speech.h"\
+	
+
+..\src\dictionary.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	
+
+..\src\espeak_command.cpp : \
+	"..\src\debug.h"\
+	"..\src\espeak_command.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	
+
+..\src\espeakedit.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\phoneme.h"\
+	"..\src\prosodydisplay.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\event.cpp : \
+	"..\src\debug.h"\
+	"..\src\event.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\stdint.h"\
+	"..\src\wave.h"\
+	
+
+..\src\extras.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\fifo.cpp : \
+	"..\src\debug.h"\
+	"..\src\espeak_command.h"\
+	"..\src\fifo.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\stdint.h"\
+	"..\src\wave.h"\
+	
+
+..\src\formantdlg.cpp : \
+	"..\src\main.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\voice.h"\
+	
+
+..\src\intonation.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\menus.cpp : \
+	"..\src\main.h"\
+	
+
+..\src\numbers.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\oldklatt.cpp : \
+	"..\src\klatt.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\voice.h"\
+	
+
+..\src\options.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\speech.h"\
+	
+
+..\src\phonemelist.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	
+
+..\src\prosodydisplay.cpp : \
+	"..\src\main.h"\
+	"..\src\phoneme.h"\
+	"..\src\prosodydisplay.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	
+
+..\src\readclause.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\setlengths.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\sonic.cpp : \
+	"..\src\sonic.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	
+
+..\src\speak_lib.cpp : \
+	"..\src\debug.h"\
+	"..\src\espeak_command.h"\
+	"..\src\event.h"\
+	"..\src\fifo.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\stdint.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	"..\src\wave.h"\
+	
+
+..\src\spect.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\voice.h"\
+	
+
+..\src\spectdisplay.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\spectseq.cpp : \
+	"..\src\main.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\voice.h"\
+	
+
+..\src\synth_mbrola.cpp : \
+	"..\src\mbrowrap.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\synthdata.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\stdint.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	"..\src\wave.h"\
+	
+
+..\src\synthesize.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\tr_languages.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	
+
+..\src\translate.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\transldlg.cpp : \
+	"..\src\main.h"\
+	"..\src\phoneme.h"\
+	"..\src\prosodydisplay.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\voicedlg.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\voice.h"\
+	
+
+..\src\voices.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\vowelchart.cpp : \
+	"..\src\main.h"\
+	"..\src\options.h"\
+	"..\src\phoneme.h"\
+	"..\src\speak_lib.h"\
+	"..\src\spect.h"\
+	"..\src\speech.h"\
+	"..\src\synthesize.h"\
+	"..\src\translate.h"\
+	"..\src\voice.h"\
+	
+
+..\src\wave.cpp : \
+	"..\src\debug.h"\
+	"..\src\portaudio.h"\
+	"..\src\speech.h"\
+	"..\src\stdint.h"\
+	"..\src\wave.h"\
+	
+
+..\src\wavegen.cpp : \
+	"..\src\phoneme.h"\
+	"..\src\portaudio.h"\
+	"..\src\sintab.h"\
+	"..\src\sonic.h"\
+	"..\src\speak_lib.h"\
+	"..\src\speech.h"\
+	"..\src\StdAfx.h"\
+	"..\src\synthesize.h"\
+	"..\src\voice.h"\
+	
